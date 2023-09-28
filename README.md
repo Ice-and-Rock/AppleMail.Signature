@@ -72,8 +72,10 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 <li>Close the <code>TextEdit</code> app and in the 'hidden' Signatures folder, right click the same file and select <code>Get info</code> </li>
 <li>This will open a new window for the file details. Make sure the <code>Locked</code> box is ticked ✅ </li>
 </ul>
-<img src="./7.png" width="100" alt="Image description"/>
-<ul>
-<li>Then, open up your Apple Mail App again and click to create a new email</li>
-<li>The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!</li>
-</ul>
+<div style="display: flex; align-items: center;">
+    <ul style="flex: 1;">
+        <li>Then, open up your Apple Mail App again and click to create a new email</li>
+        <li>The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!</li>
+    </ul>
+    <img src="./7.png" width="100" alt="Image description" style="margin-left: 20px;">
+</div>
