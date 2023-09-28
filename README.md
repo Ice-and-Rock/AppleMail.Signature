@@ -71,6 +71,9 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 
 <ul>
 <li>Paste your custom design into the Signature file in HTML format.</li>
+
+***You can find 5 different designs in my <code>Example_Signatures.FromNick</code> folder***
+
 <li>Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!</li>
 </ul>
 <img src='./Assets/6.png' width="350">
