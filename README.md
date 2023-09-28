@@ -77,3 +77,9 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 <li>Then, open up your Apple Mail App again and click to create a new email</li>
 <li>The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!</li>
 </ul>
+
+# That's it! 
+
+If this has helped. Please <code>Follow</code> and let me know by reaching out!
+
+Thanks.
