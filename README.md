@@ -41,7 +41,7 @@ Follow the instructions below to make your own...!
 
 ### This is where the magic happens!...
 
-The next step will locate our new signature file from the Apple Mail App. Now, it must be stated that Apple has dileberatly made these files private so they wont appear in your regular <code>Finder</code> searches. This is beacuase the enclosed files are not meant to be editable by regular users for fear of writing bugs in the App can't read!
+***The next step will locate our new signature file from the Apple Mail App. Now, it must be stated that Apple has dileberatly made these files private so they wont appear in your regular <code>Finder</code> searches. This is beacuase the enclosed files are not meant to be editable by regular users for fear of writing bugs in the App can't read!***
 
 ## Step 3
 
@@ -51,7 +51,7 @@ The next step will locate our new signature file from the Apple Mail App. Now, i
 <li>Navigate to your home desktop screen and select the <code>Go</code> drop-down menu, then <code>Go to Folder</code>.</li>
 <li>Type <code>~/Library/Mail/V10/MailData/Signatures</code> into the search window and press Enter.</li>
 <li>In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.</li>
-  <img src="./3.png" width="350"/>
+<img src="./3.png" width="350"/>
 <li>The file we want should have '>NEW_SIGNATURE<' at the bottom within the <body> tags.
 Go ahead and delete the entire <body> tags and everything in it, leaving just the top Content and Version information at the top.</li>
 </ul>
