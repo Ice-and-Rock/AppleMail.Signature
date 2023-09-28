@@ -1,16 +1,18 @@
 # AppleMail.Signiture
 
-### A repo for your custom build Apple.Mail signature.
+### A repo for HTML custom build Apple.Mail signatures.
 
-Knowing the basics of software developemnt and how to access commands and controls can take you to some strange places. I had this issue recently trying to create a 'signature' with the Mail App on my Macbook.
+Knowing the basics of software developemnt and how to access commands and controls can take you to some strange places. I had this issue recently trying to create a 'signature' with the Mail App on my Macbook 🤨
 
 There are various websites that allow you to create signatures that can be added to your signature selector in the App. A problem arrises when you come to import them, however. They never seem to work correctly once imported, be it links broken, styles not working and layout going bananas! 🍌
 
-Many of these services then offer a <code>Premium</code> subscription which allows the code to work in more platforms and the options to add more styles. **No thanks!** 
+Many of these services then offer a <code>Premium</code> subscription which allows the code to work on more platforms and the options to add more styles. **No thanks!** 
 
-It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom <code>HTML</code> code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code ✅
+😁
 
-Follow the instructions below to make your own...! 🚀
+It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom <code>H T M L</code> code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code ✅
+
+🚀 Follow the instructions below to make your own...! 🚀
 
 <span></span>
 
@@ -74,7 +76,7 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 
 ***...You can find 5 different designs in my <code>Example_Signatures.FromNick</code> folder***
 
-<li>Remove the <code>< DOCTYPE ></code> and the <code><code html ></code> tags - Top and bottom!</li>
+<li>Remove the <code>< DOCTYPE ></code> and the <code>< HTML ></code> tags - Top and bottom!</li>
 </ul>
 <img src='./Assets/6.png' width="350">
 <ul>
