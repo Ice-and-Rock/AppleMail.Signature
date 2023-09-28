@@ -12,14 +12,14 @@ Follow the instructions below to make your own...!
 
 ### Step 1
 ## Create a new Signature
-<li>
-In Apple Mail, open ```Settings...``` > ```Signatures```.
+<ol>
+In Apple Mail, open `Settings...` > ```Signatures```.
 Select you email account in the left column.
 Now create a new signature by clicking on ```+``` icon.
 Name the new Signature 'NEW_SIGNATURE'
 Make sure the ```Always match my default font``` checkbox is ```off```
 Close the ```Settings``` window then close Apple Mail by right clicking on the screen bottom Icon and selecting ```Quit``` 
-</li>
+</ol>
 <img src="./1.png">
 
 ### Step 2
@@ -56,4 +56,11 @@ Go ahead and delete the Entire <body> tags and everything in it, leaving just th
 ## Create the New Design and Test it
 <li>
 Paste your custom design into the Signature file in HTML format.
+Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!
+<img src='./6.png'>
+Close the ```TextEdit``` app and in the 'hidden' Signatures folder, right click the same file and select ```Get info```
+This will open a new window for the file details. Make sure the ```Locked``` box is ticked ✅ 
+
+Then, open up your Apple Mail App again and click to create a new email
+The ```NEW_SIGNATURE``` should be there and will now render your new footer to the bottom of the page!
 </li>
