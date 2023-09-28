@@ -13,12 +13,12 @@ Follow the instructions below to make your own...!
 ### Step 1
 ## Create a new Signature
 <ol>
-In Apple Mail, open `Settings...` > ```Signatures```.
-Select you email account in the left column.
-Now create a new signature by clicking on ```+``` icon.
-Name the new Signature 'NEW_SIGNATURE'
-Make sure the ```Always match my default font``` checkbox is ```off```
-Close the ```Settings``` window then close Apple Mail by right clicking on the screen bottom Icon and selecting ```Quit``` 
+<li>In Apple Mail, open ```Settings...``` > ```Signatures```.</li>
+<li>Select your email account in the left column.</li>
+<li>Now create a new signature by clicking on ```+``` icon.</li>
+<li>Name the new Signature 'NEW_SIGNATURE'.</li>
+<li>Make sure the ```Always match my default font``` checkbox is ```off```.</li>
+<li>Close the ```Settings``` window then close Apple Mail by right-clicking on the screen bottom Icon and selecting ```Quit```.</li>
 </ol>
 <img src="./1.png">
 
