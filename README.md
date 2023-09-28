@@ -12,7 +12,7 @@ It took some time, but I figured a way to access the 'signatures' files directly
 
 Follow the instructions below to make your own...!
 
-<img scr="./Me_Sig_1.png" height="80"/>
+<img src="./Me_Sig_1.png" height="80"/>
 
 ## Step 1
 
@@ -26,7 +26,7 @@ Follow the instructions below to make your own...!
 <li>Make sure the <code>Always match my default font</code> checkbox is <code>off</code>.</li>
 <li>Close the <code>Settings</code> window then close Apple Mail by right-clicking on the screen bottom Icon and selecting <code>Quit</code>.</li>
 </ul>
-<img src="./Assets/1.png" width="350">
+<img src="./Assets/1.png" width="350"/>
 
 ## Step 2
 
