@@ -80,7 +80,7 @@ Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!
 <img src='./6.png'>
 Close the <code>TextEdit</code> app and in the 'hidden' Signatures folder, right click the same file and select <code>Get info</code>
 This will open a new window for the file details. Make sure the <code>Locked</code> box is ticked ✅ 
-<img src="./7.png"/>
+<img src="./7.png" width="100" alt="Image description"/>
 Then, open up your Apple Mail App again and click to create a new email
 The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!
 </li>
