@@ -8,9 +8,9 @@ There are various websites that allow you to create signatures that can be added
 
 Many of these services then offer a <code>Premium</code> subscription which allows the code to work in more platforms and the options to add more styles. **No thanks!** 
 
-It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom <code>HTML</code> code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code.
+It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom <code>HTML</code> code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code ✅
 
-Follow the instructions below to make your own...!
+Follow the instructions below to make your own...! 🚀
 
 <span></span>
 
