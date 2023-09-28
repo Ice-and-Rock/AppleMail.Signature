@@ -88,8 +88,6 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
     </ul>
   </div>
   <div style="flex: 1;">
-    <img src="./6.png" width="100" alt="Image description" />
-    <img src="./7.png" width="100" alt="Image description" />
+    <img src="./6.png" alt="Image description" />
   </div>
 </div>
-
