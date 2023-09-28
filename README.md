@@ -1,17 +1,19 @@
 # AppleMail.Signiture
+
 A repo for your custom build Apple.Mail signature.
 
-Knowing the basics of software developemnt and how to access commands and controls can take you to some strange places. I had this issue recently trying to create a 'signature' with the Mail App on my Macbook. 
+Knowing the basics of software developemnt and how to access commands and controls can take you to some strange places. I had this issue recently trying to create a 'signature' with the Mail App on my Macbook.
 
-There are various websites that allow you to create signatures that can be added to your signature selector in the App. The problem arrises when you come to import them, however. They never seem to work correctly once imported, be it links broken, styles not working and layout going bananas! 🍌 
+There are various websites that allow you to create signatures that can be added to your signature selector in the App. The problem arrises when you come to import them, however. They never seem to work correctly once imported, be it links broken, styles not working and layout going bananas! 🍌
 
 It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom HTML code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code!
 
-Follow the instructions below to make your own...! 
-
+Follow the instructions below to make your own...!
 
 ## Step 1
+
 ### Create a new Signature
+
 <ul>
 <li>In Apple Mail, open <code>Settings...</code> > <code>Signatures</code>.</li>
 <li>Select your email account in the left column.</li>
@@ -23,56 +25,40 @@ Follow the instructions below to make your own...!
 <img src="./1.png" width="350">
 
 ## Step 2
+
 ### Open a new TextEdit doc
+
 <ul>
-<li>
-Use the spotlight search function on your Mac: <code>Command</code> + <code>Spacebar</code>.
-</li>
-<li>
-Type <code>TextEdit</code> and press <code>Enter</code> to open it.
-</li>
-<li>
-In TextEdit, select <code>New Document</code> to open a new file.
-</li>
-<li>
-Select <code>TextEdit</code> > <code>Preferences...</code> in the top menu.
-</li>
-<li>
-Navigate to the <code>Open and Save</code> section.
-</li>
-<li>
-Make sure that the <code>Display HTML files as HTML code instead of formatted text</code> option is checked.
-</li>
-<li>
-Close the <code>Preferences</code> window.
-</li>
+<li>Use the spotlight search function on your Mac: <code>Command</code> + <code>Spacebar</code>.</li>
+<li>Type <code>TextEdit</code> and press <code>Enter</code> to open it.</li>
+<li>In TextEdit, select <code>New Document</code> to open a new file.</li>
+<li>Select <code>TextEdit</code> > <code>Preferences...</code> in the top menu.</li>
+<li>Navigate to the <code>Open and Save</code> section.</li>
+<li>Make sure that the <code>Display HTML files as HTML code instead of formatted text</code> option is checked.</li>
+<li>Close the <code>Preferences</code> window.</li>
 </ul>
 <img src="./2.png" width="350"/>
 
-
 ### This is where the magic happens!...
+
 The next step will locate our new signature file from the Apple Mail App. Now, it must be stated that Apple has dileberatly made these files private so they wont appear in your regular <code>Finder</code> searches. This is beacuase the enclosed files are not meant to be editable by regular users for fear of writing bugs in the App can't read!
 
 ## Step 3
+
 ### Locate and Open the hidden 'NEW_SIGNATURE' file
+
 <ul>
-<li>
-Navigate to your home desktop screen and select the <code>Go</code> drop-down menu, then <code>Go to Folder</code>.
-Type <code>~/Library/Mail/V10/MailData/Signatures</code> into the search window and press Enter.
-</li>
-<li>
-In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.
-</li>
+<li>Navigate to your home desktop screen and select the <code>Go</code> drop-down menu, then <code>Go to Folder</code>.</li>
+<li>Type <code>~/Library/Mail/V10/MailData/Signatures</code> into the search window and press Enter.</li>
+<li>In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.</li>
   <img src="./3.png" width="350"/>
-<li>
-The file we want should have '>NEW_SIGNATURE<' at the bottom within the <body> tags.
-Go ahead and delete the entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
-</li>
+<li>The file we want should have '>NEW_SIGNATURE<' at the bottom within the <body> tags.
+Go ahead and delete the entire <body> tags and everything in it, leaving just the top Content and Version information at the top.</li>
 </ul>
 <img src="./5.png" width="350"/>
 
-
 ## Step 4
+
 ### Create the New Design and Test it
 
 <ul>
