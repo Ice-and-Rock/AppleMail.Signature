@@ -13,23 +13,23 @@ Follow the instructions below to make your own...!
 ### Step 1
 ## Create a new Signature
 <li>
-- In Apple Mail, open ```Settings...``` > ```Signatures```.
-- Select you email account in the left column.
-- Now create a new signature by clicking on ```+``` icon.
-- Name the new Signature 'NEW_SIGNATURE'
-- Make sure the ```Always match my default font``` checkbox is ```off```
-- Close the ```Settings``` window then close Apple Mail by right clicking on the screen bottom Icon and selecting ```Quit``` 
+In Apple Mail, open ```Settings...``` > ```Signatures```.
+Select you email account in the left column.
+Now create a new signature by clicking on ```+``` icon.
+Name the new Signature 'NEW_SIGNATURE'
+Make sure the ```Always match my default font``` checkbox is ```off```
+Close the ```Settings``` window then close Apple Mail by right clicking on the screen bottom Icon and selecting ```Quit``` 
 </li>
 <img src="./1.png">
 
 ### Step 2
 ## Open a new TextEdit doc
 <li>
-- Use the splotlight search function on your Mac ```Command``` + ```Spacebar``` to open ```TextEdit```
-- Select ```New Document``` which will open a new file.
-- Select TextEditor ```Settings...``` in the drop down menu and navigate to the ```Open and Save``` section
-- Make sure that the ```Display HTML files as HTML code instead of formatted text``` is ticked.
-- Close the ```Preferences``` window.
+Use the splotlight search function on your Mac ```Command``` + ```Spacebar``` to open ```TextEdit```
+Select ```New Document``` which will open a new file.
+Select TextEditor ```Settings...``` in the drop down menu and navigate to the ```Open and Save``` section
+Make sure that the ```Display HTML files as HTML code instead of formatted text``` is ticked.
+Close the ```Preferences``` window.
 </li>
 
 # This is where the magic happens!...
@@ -38,22 +38,22 @@ The next step will locate our new signature file from the Apple Mail App. Now, i
 ### Step 3
 ## Locate and Open the hidden 'NEW_SIGNATURE' file
 <li>
-- Navigate to your home desktop screen and select the ```Go``` drop down menu then ```Go to Folder```.
-- Type in to the search window ```~/Library/Mail/V10/MailData/Signatures``` then Enter.
+Navigate to your home desktop screen and select the ```Go``` drop down menu then ```Go to Folder```.
+Type in to the search window ```~/Library/Mail/V10/MailData/Signatures``` then Enter.
 </li>
 # Note: The Version may change over time, so the V(number) may be different. You can use the menu below to select where you want to go using your current version.
 <li>
-- In the new (hidden) folder, you should be able to see a number of files that hold your Signatures. Right click on each and ```Open With``` the ```TextEdit``` App.
+In the new (hidden) folder, you should be able to see a number of files that hold your Signatures. Right click on each and ```Open With``` the ```TextEdit``` App.
 </li>
 # Note: look at the ```Date Modified``` column to see which one you just created```
 <li>
-- The File we want should have '>NEW_SIGNATURE<' at the bottom in the <body> tags.
-- Go ahead and delete the Entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
+The File we want should have '>NEW_SIGNATURE<' at the bottom in the <body> tags.
+Go ahead and delete the Entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
 <img src='./5.png'>
 </li>
 
 ### Step 4
 ## Create the New Design and Test it
 <li>
-- Paste your custom design into the Signature file in HTML format.
+Paste your custom design into the Signature file in HTML format.
 </li>
