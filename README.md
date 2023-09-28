@@ -55,5 +55,5 @@ The next step will locate our new signature file from the Apple Mail App. Now, i
 ### Step 4
 ## Create the New Design and Test it
 <li>
--
+- Paste your custom design into the Signature file in HTML format.
 </li>
