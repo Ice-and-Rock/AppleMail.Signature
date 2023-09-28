@@ -13,12 +13,12 @@ Follow the instructions below to make your own...!
 ## Step 1
 ### Create a new Signature
 <ul>
-<li>In Apple Mail, open ```Settings...``` > ```Signatures```.</li>
+<li>In Apple Mail, open <code>Settings...</code> > <code>Signatures</code>.</li>
 <li>Select your email account in the left column.</li>
-<li>Now create a new signature by clicking on ```+``` icon.</li>
+<li>Now create a new signature by clicking on <code>+</code> icon.</li>
 <li>Name the new Signature 'NEW_SIGNATURE'.</li>
-<li>Make sure the ```Always match my default font``` checkbox is ```off```.</li>
-<li>Close the ```Settings``` window then close Apple Mail by right-clicking on the screen bottom Icon and selecting ```Quit```.</li>
+<li>Make sure the <code>Always match my default font</code> checkbox is <code>off</code>.</li>
+<li>Close the <code>Settings</code> window then close Apple Mail by right-clicking on the screen bottom Icon and selecting <code>Quit</code>.</li>
 </ul>
 <img src="./1.png">
 
@@ -26,38 +26,38 @@ Follow the instructions below to make your own...!
 ### Open a new TextEdit doc
 <ul>
 <li>
-Use the spotlight search function on your Mac: ```Command``` + ```Spacebar```.
+Use the spotlight search function on your Mac: <code>Command</code> + <code>Spacebar</code>.
 </li>
 <li>
-Type ```TextEdit``` and press ```Enter``` to open it.
+Type <code>TextEdit</code> and press <code>Enter</code> to open it.
 </li>
 <li>
-In TextEdit, select ```New Document``` to open a new file.
+In TextEdit, select <code>New Document</code> to open a new file.
 </li>
 <li>
-Select ```TextEdit``` > ```Preferences...``` in the top menu.
+Select <code>TextEdit</code> > <code>Preferences...</code> in the top menu.
 </li>
 <li>
-Navigate to the ```Open and Save``` section.
+Navigate to the <code>Open and Save</code> section.
 </li>
 <li>
-Make sure that the ```Display HTML files as HTML code instead of formatted text``` option is checked.
+Make sure that the <code>Display HTML files as HTML code instead of formatted text</code> option is checked.
 </li>
 <li>
-Close the ```Preferences``` window.
+Close the <code>Preferences</code> window.
 </li>
 </ul>
 
 
 ### This is where the magic happens!...
-The next step will locate our new signature file from the Apple Mail App. Now, it must be stated that Apple has dileberatly made these files private so they wont appear in your regular ```Finder``` searches. This is beacuase the enclosed files are not meant to be editable by regular users for fear of writing bugs in the App can't read!
+The next step will locate our new signature file from the Apple Mail App. Now, it must be stated that Apple has dileberatly made these files private so they wont appear in your regular <code>Finder</code> searches. This is beacuase the enclosed files are not meant to be editable by regular users for fear of writing bugs in the App can't read!
 
 ## Step 3
 ### Locate and Open the hidden 'NEW_SIGNATURE' file
 <ul>
 <li>
-Navigate to your home desktop screen and select the ```Go``` drop-down menu, then ```Go to Folder```.
-Type ```~/Library/Mail/V10/MailData/Signatures``` into the search window and press Enter.
+Navigate to your home desktop screen and select the <code>Go</code> drop-down menu, then <code>Go to Folder</code>.
+Type <code>~/Library/Mail/V10/MailData/Signatures</code> into the search window and press Enter.
 </li>
 <li>
 In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.
@@ -75,9 +75,9 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 Paste your custom design into the Signature file in HTML format.
 Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!
 <img src='./6.png'>
-Close the ```TextEdit``` app and in the 'hidden' Signatures folder, right click the same file and select ```Get info```
-This will open a new window for the file details. Make sure the ```Locked``` box is ticked ✅ 
+Close the <code>TextEdit</code> app and in the 'hidden' Signatures folder, right click the same file and select <code>Get info</code>
+This will open a new window for the file details. Make sure the <code>Locked</code> box is ticked ✅ 
 
 Then, open up your Apple Mail App again and click to create a new email
-The ```NEW_SIGNATURE``` should be there and will now render your new footer to the bottom of the page!
+The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!
 </li>
