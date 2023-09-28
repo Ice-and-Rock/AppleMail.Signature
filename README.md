@@ -20,7 +20,7 @@ Follow the instructions below to make your own...!
 <li>Make sure the <code>Always match my default font</code> checkbox is <code>off</code>.</li>
 <li>Close the <code>Settings</code> window then close Apple Mail by right-clicking on the screen bottom Icon and selecting <code>Quit</code>.</li>
 </ul>
-<img src="./1.png">
+<img src="./1.png" width="350">
 
 ## Step 2
 ### Open a new TextEdit doc
@@ -47,7 +47,7 @@ Make sure that the <code>Display HTML files as HTML code instead of formatted te
 Close the <code>Preferences</code> window.
 </li>
 </ul>
-<img src="./2.png"/>
+<img src="./2.png" width="350"/>
 
 
 ### This is where the magic happens!...
@@ -63,13 +63,13 @@ Type <code>~/Library/Mail/V10/MailData/Signatures</code> into the search window 
 <li>
 In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.
 </li>
-  <img src="./3.png"/>
+  <img src="./3.png" width="350"/>
 <li>
 The file we want should have '>NEW_SIGNATURE<' at the bottom within the <body> tags.
 Go ahead and delete the entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
 </li>
 </ul>
-<img src="./5.png"/>
+<img src="./5.png" width="350"/>
 
 
 ## Step 4
