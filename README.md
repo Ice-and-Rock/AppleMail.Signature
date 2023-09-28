@@ -10,8 +10,8 @@ It took some time, but I figured a way to access the 'signatures' files directly
 Follow the instructions below to make your own...! 
 
 
-### Step 1
-## Create a new Signature
+## Step 1
+### Create a new Signature
 <ul>
 <li>In Apple Mail, open ```Settings...``` > ```Signatures```.</li>
 <li>Select your email account in the left column.</li>
@@ -22,21 +22,38 @@ Follow the instructions below to make your own...!
 </ul>
 <img src="./1.png">
 
-### Step 2
-## Open a new TextEdit doc
+## Step 2
+### Open a new TextEdit doc
+<ul>
 <li>
-Use the splotlight search function on your Mac ```Command``` + ```Spacebar``` to open ```TextEdit```
-Select ```New Document``` which will open a new file.
-Select TextEditor ```Settings...``` in the drop down menu and navigate to the ```Open and Save``` section
-Make sure that the ```Display HTML files as HTML code instead of formatted text``` is ticked.
+Use the spotlight search function on your Mac: ```Command``` + ```Spacebar```.
+</li>
+<li>
+Type ```TextEdit``` and press ```Enter``` to open it.
+</li>
+<li>
+In TextEdit, select ```New Document``` to open a new file.
+</li>
+<li>
+Select ```TextEdit``` > ```Preferences...``` in the top menu.
+</li>
+<li>
+Navigate to the ```Open and Save``` section.
+</li>
+<li>
+Make sure that the ```Display HTML files as HTML code instead of formatted text``` option is checked.
+</li>
+<li>
 Close the ```Preferences``` window.
 </li>
+</ul>
 
-# This is where the magic happens!...
+
+### This is where the magic happens!...
 The next step will locate our new signature file from the Apple Mail App. Now, it must be stated that Apple has dileberatly made these files private so they wont appear in your regular ```Finder``` searches. This is beacuase the enclosed files are not meant to be editable by regular users for fear of writing bugs in the App can't read!
 
-### Step 3
-## Locate and Open the hidden 'NEW_SIGNATURE' file
+## Step 3
+### Locate and Open the hidden 'NEW_SIGNATURE' file
 <li>
 Navigate to your home desktop screen and select the ```Go``` drop down menu then ```Go to Folder```.
 Type in to the search window ```~/Library/Mail/V10/MailData/Signatures``` then Enter.
@@ -52,8 +69,8 @@ Go ahead and delete the Entire <body> tags and everything in it, leaving just th
 <img src='./5.png'>
 </li>
 
-### Step 4
-## Create the New Design and Test it
+## Step 4
+### Create the New Design and Test it
 <li>
 Paste your custom design into the Signature file in HTML format.
 Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!
