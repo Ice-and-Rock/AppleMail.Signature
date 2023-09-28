@@ -72,15 +72,20 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 <img src="./5.png"/>
 
 
-## Step 4
-### Create the New Design and Test it
-<ul>
-<li>Paste your custom design into the Signature file in HTML format.</li>
-<li>Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!</li>
-<img src='./6.png'>
-<li>Close the <code>TextEdit</code> app and in the 'hidden' Signatures folder, right click the same file and select <code>Get info</code> </li>
-<li>This will open a new window for the file details. Make sure the <code>Locked</code> box is ticked ✅ </li>
-<img src="./7.png" width="100" alt="Image description"/>
-<li>Then, open up your Apple Mail App again and click to create a new email</li>
-<li>The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!</li>
-</ul>
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h2>Step 4</h2>
+    <h3>Create the New Design and Test it</h3>
+    <ul>
+      <li>Paste your custom design into the Signature file in HTML format.</li>
+      <li>Remove the &lt;!DOCTYPE html&gt; and the &lt;html&gt; tags - Top and bottom!</li>
+      <li>Close the <code>TextEdit</code> app and in the 'hidden' Signatures folder, right-click the same file and select <code>Get info</code></li>
+      <li>This will open a new window for the file details. Make sure the <code>Locked</code> box is ticked ✅</li>
+      <li>Then, open up your Apple Mail App again and click to create a new email</li>
+      <li>The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="./7.png" width="100" alt="Image description"/>
+  </div>
+</div>
