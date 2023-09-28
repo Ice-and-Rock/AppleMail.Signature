@@ -10,13 +10,17 @@ Many of these services then offer a <code>Premium</code> subscription which allo
 
 😁
 
-It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom <code>H T M L</code> code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code ✅
+It took some time, but I figured a way to access the 'signatures' files directly, then import my own custom <code> HTML </code> code for each file, then lock the files so that the text compiler in the Mail App doesn't try to warp the code ✅
+
+
 
 🚀 Follow the instructions below to make your own...! 🚀
 
-<span></span>
+
 
 <img src="./Nick_Sig_2.png" height="160"/>
+
+
 
 ## Step 1
 
