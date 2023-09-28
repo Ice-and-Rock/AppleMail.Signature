@@ -16,11 +16,11 @@ It took some time, but I figured a way to access the 'signatures' files directly
 
 🚀 Follow the instructions below to make your own...! 🚀
 
-
+<br>
 
 <img src="./Nick_Sig_2.png" height="160"/>
 
-
+<br>
 
 ## Step 1
 
