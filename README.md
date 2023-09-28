@@ -74,7 +74,7 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 
 ***...You can find 5 different designs in my <code>Example_Signatures.FromNick</code> folder***
 
-<li>Remove the <code><DOCTYPE></code> and the <html> tags - Top and bottom!</li>
+<li>Remove the <code>< DOCTYPE ></code> and the <code><code html ></code> tags - Top and bottom!</li>
 </ul>
 <img src='./Assets/6.png' width="350">
 <ul>
