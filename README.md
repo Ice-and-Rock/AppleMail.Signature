@@ -1,12 +1,12 @@
-# AppleMail.Signiture
+# AppleMail.Signature
 
 ### A repo for HTML custom build Apple.Mail signatures.
 
 [Follow me here...](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FIce-and-Rock)
 
-Knowing the basics of software developemnt and how to access commands and controls can take you to some strange places. I had this issue recently trying to create a 'signature' with the Mail App on my Macbook 🤨
+Knowing the basics of software development and how to access commands and controls can take you to some strange places. I had this issue recently trying to create a 'signature' with the Mail App on my Macbook 🤨
 
-There are various websites that allow you to create signatures that can be added to your signature selector in the App. A problem arrises, however, when you come to import them. They never seem to work correctly once imported; from broken links, styles and colours not working to the layout going bananas! 🍌
+There are various websites that allow you to create signatures that can be added to your signature selector in the App. A problem arises, however, when you come to import them. They never seem to work correctly once imported; from broken links, styles and colours not working to the layout going bananas! 🍌
 
 Many of these services then offer a <code>Premium</code> subscription which allows the code to work on more platforms and the options to add more styles. **No thanks!** 
 
