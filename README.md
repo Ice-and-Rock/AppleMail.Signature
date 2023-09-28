@@ -14,7 +14,7 @@ Follow the instructions below to make your own...! 🚀
 
 <span></span>
 
-<img src="./Me_Sig_1.png" height="160"/>
+<img src="./Nick_Sig_2.png" height="160"/>
 
 ## Step 1
 
