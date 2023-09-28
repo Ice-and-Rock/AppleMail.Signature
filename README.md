@@ -72,6 +72,8 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 <img src="./5.png"/>
 
 
+## Step 4
+### Create the New Design and Test it
 <div style="display: flex;">
   <div style="flex: 1; padding-right: 20px;">
     <h2>Step 4</h2>
@@ -86,7 +88,8 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
     </ul>
   </div>
   <div style="flex: 1;">
-    
+    <img src="./6.png" width="100" alt="Image description" />
     <img src="./7.png" width="100" alt="Image description" />
   </div>
 </div>
+
