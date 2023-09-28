@@ -83,3 +83,6 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 If this has helped. Please <code>Follow</code> and let me know by reaching out!
 
 Thanks.
+
+
+[Click here to connect via LinkedIn!](https://www.linkedin.com/in/nicholas-valente-electrics/)
