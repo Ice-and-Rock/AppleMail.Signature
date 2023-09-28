@@ -20,7 +20,7 @@ It took some time, but I figured a way to access the 'signatures' files directly
 
 <br>
 
-<img src="./Nick_Sig_2.png" height="160"/>
+<img src="./Nick_Sig_2.png"  width="90%"/>
 
 <br>
 
