@@ -54,20 +54,20 @@ The next step will locate our new signature file from the Apple Mail App. Now, i
 
 ## Step 3
 ### Locate and Open the hidden 'NEW_SIGNATURE' file
+<ul>
 <li>
-Navigate to your home desktop screen and select the ```Go``` drop down menu then ```Go to Folder```.
-Type in to the search window ```~/Library/Mail/V10/MailData/Signatures``` then Enter.
+Navigate to your home desktop screen and select the ```Go``` drop-down menu, then ```Go to Folder```.
+Type ```~/Library/Mail/V10/MailData/Signatures``` into the search window and press Enter.
 </li>
-# Note: The Version may change over time, so the V(number) may be different. You can use the menu below to select where you want to go using your current version.
 <li>
-In the new (hidden) folder, you should be able to see a number of files that hold your Signatures. Right click on each and ```Open With``` the ```TextEdit``` App.
+In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose ```Open With``` > ```TextEdit```.
 </li>
-# Note: look at the ```Date Modified``` column to see which one you just created```
 <li>
-The File we want should have '>NEW_SIGNATURE<' at the bottom in the <body> tags.
-Go ahead and delete the Entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
-<img src='./5.png'>
+The file we want should have '>NEW_SIGNATURE<' at the bottom within the ```<body>``` tags.
+Go ahead and delete the entire ```<body>``` tags and everything in it, leaving just the top Content and Version information at the top.
 </li>
+</ul>
+
 
 ## Step 4
 ### Create the New Design and Test it
