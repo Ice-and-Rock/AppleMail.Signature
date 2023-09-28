@@ -91,7 +91,7 @@ Go ahead and delete the entire <body> tags and everything in it, leaving just th
 
 # That's it! 
 
-If this has helped. Please <code>Follow</code> and let me know by reaching out!
+If this has helped. Please [Follow Me](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FIce-and-Rock) and let me know by reaching out!
 
 Thanks.
 
