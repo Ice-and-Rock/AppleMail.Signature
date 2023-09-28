@@ -60,11 +60,11 @@ Navigate to your home desktop screen and select the ```Go``` drop-down menu, the
 Type ```~/Library/Mail/V10/MailData/Signatures``` into the search window and press Enter.
 </li>
 <li>
-In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose ```Open With``` > ```TextEdit```.
+In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.
 </li>
 <li>
-The file we want should have '>NEW_SIGNATURE<' at the bottom within the ```<body>``` tags.
-Go ahead and delete the entire ```<body>``` tags and everything in it, leaving just the top Content and Version information at the top.
+The file we want should have '>NEW_SIGNATURE<' at the bottom within the <body> tags.
+Go ahead and delete the entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
 </li>
 </ul>
 
