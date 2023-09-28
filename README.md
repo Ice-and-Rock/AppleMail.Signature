@@ -47,6 +47,7 @@ Make sure that the <code>Display HTML files as HTML code instead of formatted te
 Close the <code>Preferences</code> window.
 </li>
 </ul>
+<img src="./2.png"/>
 
 
 ### This is where the magic happens!...
@@ -62,11 +63,13 @@ Type <code>~/Library/Mail/V10/MailData/Signatures</code> into the search window 
 <li>
 In the new (hidden) folder, you should see several files that hold your Signatures. Right-click on each and choose <code>Open with</code> > <code>TextEdit</code>.
 </li>
+  <img src="./3.png"/>
 <li>
-The file we want should have <code>NEW_SIGNATURE</code> at the bottom within the <body> tags.
+The file we want should have '>NEW_SIGNATURE<' at the bottom within the <body> tags.
 Go ahead and delete the entire <body> tags and everything in it, leaving just the top Content and Version information at the top.
 </li>
 </ul>
+<img src="./5.png"/>
 
 
 ## Step 4
@@ -77,7 +80,7 @@ Remove the <!DOCTYPE html> and the <html> tags - Top and bottom!
 <img src='./6.png'>
 Close the <code>TextEdit</code> app and in the 'hidden' Signatures folder, right click the same file and select <code>Get info</code>
 This will open a new window for the file details. Make sure the <code>Locked</code> box is ticked ✅ 
-
+<img src="./7.png"/>
 Then, open up your Apple Mail App again and click to create a new email
 The <code>NEW_SIGNATURE</code> should be there and will now render your new footer to the bottom of the page!
 </li>
