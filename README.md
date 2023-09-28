@@ -12,7 +12,7 @@ It took some time, but I figured a way to access the 'signatures' files directly
 
 Follow the instructions below to make your own...!
 
-<img src="./Me_Sig_1.png" height="120"/>
+<img src="./Me_Sig_1.png" height="160"/>
 
 ## Step 1
 
